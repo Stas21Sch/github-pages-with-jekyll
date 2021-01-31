@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to the stydiong version of this file edited by Stanislav Shcherban
 
-I'm glad you are here. I plan to talk about ...
+Let's talk about mitivation....
+
